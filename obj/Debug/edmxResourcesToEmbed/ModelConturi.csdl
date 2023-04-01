@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UtilizatoriDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="t_Conturi">
+    <Key>
+      <PropertyRef Name="ID_Cont" />
+    </Key>
+    <Property Name="ID_Cont" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nume" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_Parola" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="t_Parole" Relationship="Self.FK__t_Conturi__ID_Pa__145C0A3F" FromRole="t_Conturi" ToRole="t_Parole" />
+    <Property Name="Nivel" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="t_Parole">
+    <Key>
+      <PropertyRef Name="ID_Parola" />
+    </Key>
+    <Property Name="ID_Parola" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Parola" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="t_Conturi" Relationship="Self.FK__t_Conturi__ID_Pa__145C0A3F" FromRole="t_Parole" ToRole="t_Conturi" />
+  </EntityType>
+  <Association Name="FK__t_Conturi__ID_Pa__145C0A3F">
+    <End Role="t_Parole" Type="Self.t_Parole" Multiplicity="1" />
+    <End Role="t_Conturi" Type="Self.t_Conturi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="t_Parole">
+        <PropertyRef Name="ID_Parola" />
+      </Principal>
+      <Dependent Role="t_Conturi">
+        <PropertyRef Name="ID_Parola" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UtilizatoriDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="t_Conturi" EntityType="Self.t_Conturi" />
+    <EntitySet Name="t_Parole" EntityType="Self.t_Parole" />
+    <AssociationSet Name="FK__t_Conturi__ID_Pa__145C0A3F" Association="Self.FK__t_Conturi__ID_Pa__145C0A3F">
+      <End Role="t_Parole" EntitySet="t_Parole" />
+      <End Role="t_Conturi" EntitySet="t_Conturi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

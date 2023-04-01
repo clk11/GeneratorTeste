@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UtilizatoriDBModelStoreContainer" CdmEntityContainer="UtilizatoriDBEntities">
+    <EntitySetMapping Name="t_Conturi">
+      <EntityTypeMapping TypeName="UtilizatoriDBModel.t_Conturi">
+        <MappingFragment StoreEntitySet="t_Conturi">
+          <ScalarProperty Name="Nivel" ColumnName="Nivel" />
+          <ScalarProperty Name="ID_Cont" ColumnName="ID_Cont" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="ID_Parola" ColumnName="ID_Parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="t_Parole">
+      <EntityTypeMapping TypeName="UtilizatoriDBModel.t_Parole">
+        <MappingFragment StoreEntitySet="t_Parole">
+          <ScalarProperty Name="ID_Parola" ColumnName="ID_Parola" />
+          <ScalarProperty Name="Parola" ColumnName="Parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

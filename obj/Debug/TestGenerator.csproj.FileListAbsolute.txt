@@ -1,0 +1,120 @@
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.Cache
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+c:\users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaLogare.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaInregistrare.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\EntityFramework.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\EntityFramework.xml
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaProfil.resources
+C:\Users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaMeniu.resources
+C:\Users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTest.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\MaterialSkin.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\ProgressBar.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\bin\Debug\ProgressBar.xml
+C:\Users\r_tra\documents\visual studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultat.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRealizari.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\MaterialSkin.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.dll
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.xml
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.xml
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaLogare.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaInregistrare.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaMeniu.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaProfil.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultat.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRealizari.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTest.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.Cache
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTestRezultat.resources
+C:\Users\r_tra\Documents\Visual Studio 2013\Projects\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaLogare.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaInregistrare.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaMeniu.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaProfil.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultat.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRealizari.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTest.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.cache
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CoreCompileInputs.cache
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.dll
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\MaterialSkin.dll
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.dll
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.xml
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.xml
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CopyComplete
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultatTest.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.dll
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\MaterialSkin.dll
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.dll
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.xml
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.xml
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaLogare.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaInregistrare.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaMeniu.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaProfil.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultat.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRealizari.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTest.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultatTest.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.cache
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CoreCompileInputs.cache
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CopyComplete
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\r_tra\Desktop\Files\PROJECTS\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojAssemblyReference.cache
+C:\Users\r_tra\Desktop\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojAssemblyReference.cache
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.dll
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\MaterialSkin.dll
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.dll
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.xml
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\bin\Debug\ProgressBar.xml
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojAssemblyReference.cache
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaLogare.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaInregistrare.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaMeniu.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaProfil.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultat.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRealizari.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaTest.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.FormaRezultatTest.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.cache
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CoreCompileInputs.cache
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.CopyComplete
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\r_tra\Desktop\Files\ProiectCreatorGeneratorT\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
