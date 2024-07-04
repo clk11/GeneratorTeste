@@ -28,7 +28,7 @@ GeneratorTeste is a C# application designed to manage and generate tests. It fea
    - Features for viewing and analyzing test results are included.
 
 **Setup Instructions:**
-To run the application, download the source code from the [GitHub Repository](https://github.com/clk11/GeneratorTeste) and contact the project owner at trasca.robert2003@gmail.com to obtain the database.
+To run the application, download the source code from the [GitHub Repository](https://github.com/clk11/GeneratorTeste) and contact me at trasca.robert2003@gmail.com to obtain the database.
 
 **Languages:**
 - C#
